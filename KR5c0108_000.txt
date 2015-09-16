@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:24:25.251343
+#+TITLE: 道德真經疏義
+#+PROPERTY: DZID  DZ0719
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，13—942 六卷（原闕卷一之三） 洞神部玉訣類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
